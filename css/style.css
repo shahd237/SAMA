@@ -318,7 +318,7 @@
 .home .carousel-caption h1 {
   font-size: 48px;
   font-weight: 800;
-  color: #f4d27a; /* ذهبي ناعم */
+  color: #fff; /* ذهبي ناعم */
   text-shadow: 0 0 12px rgba(0, 0, 0, 0.7);
 }
 
@@ -1045,6 +1045,7 @@ to { transform: translateY(-2000px); }
     margin: 5px 0;
   }
 }
+
 
 
 
